@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style></style>
+            <div class="app__header-wrap">
+                <div class="app__header-hello">
+                    <h2 class="head-text">
+                        Hi, I am Tran Ngoc Thien
+                    </h2>
+                    <div class="app__header-work">
+                        <span>Web Developer</span>
+                        <span>Freelancer</span>
+                    </div>
+                    <div class="app__header-icon">
+                        <img src="" alt="react icon" />
+                        <img src="" alt="redux icon" />
+                        <img src="" alt="html icon" />
+                        <img src="" alt="css icon" />
+                        <img src="" alt="javascript icon" />
+                        <img src="" alt="My SQL icon" />
+                    </div>
+                </div>
+                <div class="app__header-img">
+                    <img src="" alt="profile" />
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
